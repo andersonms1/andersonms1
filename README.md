@@ -63,19 +63,22 @@ Meu nome é Anderson, sou desenvolvedor full stack do Brasil. Procuro uma vaga r
 
   <p class="maxWidth sameLine marginLeft"><a href="http://github.com/andersonms1/ecommerce">Github</a></p>
 
-<p class="marginLeft">
+<p>
 
 <img class="marginLeft" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img class="marginLeft" alt="GraphQL W" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge& 
+
+<img class="marginLeft sameLine" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge& 
 logo=graphql&logoColor=white" />
 
-<img class="marginLeft" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&  logoColor=white" />
+<img class="marginLeft sameLine" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&  logoColor=white" />
 
 </p>
 
+<span/>
+<div/>
+<br/>
+<br/>
 
-<br/>
-<br/>
  <img style="flex:1; flex-grow: 2; width: 100%; height: auto; " src="./imgs/crp.png">
   <br/><br/>
 
