@@ -1,0 +1,11 @@
+.sameLine {
+ display: inline-block;
+}
+/*  */
+.maxWidth {
+    max-width: 45%;
+}
+
+.marginLeft {
+    margin-left: 15px;
+}

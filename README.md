@@ -1,3 +1,8 @@
+<header>
+<link rel="stylesheet" href="index.css">
+
+</header>
+
 ### Hi there 👋
 
 Meu nome é Anderson, sou desenvolvedor full stack do Brasil. Procuro uma vaga remota, meu nível de inglês é X. Programando desde 2016
@@ -46,25 +51,23 @@ Meu nome é Anderson, sou desenvolvedor full stack do Brasil. Procuro uma vaga r
 <h3>Open source projects</h3>
 <br/>
 
-  <img style="flex:1; flex-grow: 2; width: 100%; height: auto; " src="./imgs/ecommerce.png">
+  <img style="flex:1; flex-grow: 2; width: 100%; height: auto; " src="./imgs/ecommerce.png"/>
   <br/><br/>
 
+  <img class="maxWidth" src="./gifs/ecommerce.gif" loading="lazy" align="left"/>  
+  
+  <h3 class="maxWidth sameLine marginLeft">E-commerce</h3>
+  
+  <p class="maxWidth sameLine marginLeft" >Um e-commece serverless com api graphql gerado pelo AWS  Amplify. Utilizando a baseweb ui, usada pela a equipe Uber
+  </p>
 
-<div style="display: flex; align-items: row" >
-  
-  <img style="flex:1; flex-grow: 2; width: 100%; height: auto; max-width: 50%" src="./gifs/ecommerce.gif" loading="lazy" >
-  
-  <div style="flex:1; flex-grow: 2; padding: 20px">
-    <h3>E-commerce</h3>
-    <p>Um e-commece serverless com api graphql gerado pelo AWS  Amplify. Utilizando a baseweb ui, usada pela a equipe Uber</p>
-    <p><a href="http://github.com/andersonms1/ecommerce">Github</a></p>
-    <p>
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge& logo=graphql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&  logoColor=white" />
+  <p class="maxWidth sameLine marginLeft"><a href="http://github.com/andersonms1/ecommerce">Github</a></p>
+    <p class="marginLeft">
+      <img class="marginLeft" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img class="marginLeft" alt="GraphQL W" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge& logo=graphql&logoColor=white" />
+      <img class="marginLeft" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&  logoColor=white" />
     </p>
-  </div>
-</div>
+
 
 <br/>
 <br/>
