@@ -6,6 +6,14 @@
     max-width: 45%;
 }
 
+.halfWidth {
+    width: 45%;
+}
+
+.imageTable {
+    width: 500px;
+}
+
 .marginLeft {
     margin-left: 15px;
 }
