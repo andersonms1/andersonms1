@@ -5,6 +5,9 @@
 .maxWidth {
     max-width: 45%;
 }
+.minWidth {
+    min-width: 300px;
+}
 
 .halfWidth {
     width: 45%;
