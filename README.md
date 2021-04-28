@@ -8,7 +8,7 @@
 Meu nome é Anderson, sou desenvolvedor full stack, moro em :brazil: brasília - Brasil. Procuro uma vaga remota. Inglês certificado pela prova TOFEL ITP :us: nível B2 no
 <a href="https://www.britishcouncil.org.br/quadro-comum-europeu-de-referencia-para-linguas-cefr">Quadro Comum Europeu de Referência para Línguas</a>. Programando desde 2016
 
-My name is Anderson, I am a full stack developer, I live in :brazil: Brasilia - Brazil. I'm looking for remote work. English certified by the TOFEL ITP :us: level B2 test on the Common European Framework of Reference for Languages. Programming since 2016
+My name is Anderson, I am a full stack developer, living in :brazil: Brasilia - Brazil. I'm looking for remote work. English certified by the TOFEL ITP :us: level B2 test on the Common European Framework of Reference for Languages. Programming since 2016
 
 <!-- <h3>Contact</h3>
 
