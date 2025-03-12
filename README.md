@@ -17,42 +17,36 @@ My name is Anderson, I am a full stack developer, living in :brazil: Brasilia - 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> -->
-
-<h3>Languages</h3>
-
+<h3>Back end</h3>
 <p>
-<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</img>
-<img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
+
 
 <h3>Front end</h3>
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="React Native" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+"/>
+<img alt="React Native" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
+
+<!-- <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
+<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> -->
 
 </p>
 
-<h3>Back end</h3>
-<p>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
 <br/>
 <br/>
-<h3>Open source projects</h3>
+<!-- <h3>Open source projects</h3>
 <br/>
 
-<!-- <img style="flex:1; flex-grow: 2; width: 100%; height: auto; " src="./imgs/ecommerce.png"/>
-<br/><br/> -->
 
 | Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Preview                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -60,8 +54,6 @@ My name is Anderson, I am a full stack developer, living in :brazil: Brasilia - 
 
 <br/>
 <br/>
-<!-- <img style="flex:1; flex-grow: 2; width: 100%; height: auto; " src="./imgs/felicidade.png"/>
-<br/><br/> -->
 
 | Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Preview                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -70,9 +62,6 @@ My name is Anderson, I am a full stack developer, living in :brazil: Brasilia - 
 <br/>
 <br/>
 
-<!-- <img style="flex:1; flex-grow: 2; width: 100%; height: auto; " src="./imgs/crp.png">
-<br/><br/> -->
-
 | Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Preview                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| :brazil: Desenvolvido por duas equipes, a minha responsável principalmente por sua gerência utilizando planos do PMBOK e posteriormente técnicas ágeis de desenvolvimento como Scrum, vivenciando todas as etapas das sprints e trocando papeis entre membros. A aplicação é um sistema de recomendação de prioridades de atendimentos, essa triagem é realizada com apredizado de máquinas.<br/><br/>:us: Developed by two teams, my teamm responsible for its management using PMBOK plans and later agile development techniques such as Scrum, experiencing all the stages of the sprints and exchanging roles between members. The application is a system for recommending hospital care priority, this sorting is performed with machine learning. <p><br/> <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img class="marginLeft sameLine" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img class="marginLeft sameLine" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /><img class="marginLeft sameLine" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /><br/><br/><a href="https://github.com/fga-eps-mds/2017.2-Classificacao-de-Risco-Pediatrico">Git</a> | <img style="width: 500px;" src="./imgs/crp.png" loading="lazy" align="left"/></p> |
+| :brazil: Desenvolvido por duas equipes, a minha responsável principalmente por sua gerência utilizando planos do PMBOK e posteriormente técnicas ágeis de desenvolvimento como Scrum, vivenciando todas as etapas das sprints e trocando papeis entre membros. A aplicação é um sistema de recomendação de prioridades de atendimentos, essa triagem é realizada com apredizado de máquinas.<br/><br/>:us: Developed by two teams, my teamm responsible for its management using PMBOK plans and later agile development techniques such as Scrum, experiencing all the stages of the sprints and exchanging roles between members. The application is a system for recommending hospital care priority, this sorting is performed with machine learning. <p><br/> <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img class="marginLeft sameLine" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img class="marginLeft sameLine" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /><img class="marginLeft sameLine" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /><br/><br/><a href="https://github.com/fga-eps-mds/2017.2-Classificacao-de-Risco-Pediatrico">Git</a> | <img style="width: 500px;" src="./imgs/crp.png" loading="lazy" align="left"/></p> | -->
